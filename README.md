@@ -34,7 +34,7 @@ Généralement le `.env` devrait avoir cela, il est donc possible de faire cela 
 
 `GOOGLE_MAPS_API_KEY` étant le nom de la constante définie dans le fichier d'environnement.
 
-## Configuration
+## Configuration
 
 La google map est configurable a l'aide des attributs HTML.
 
